@@ -1,0 +1,11 @@
+/Users/elizabeth/Programming/c_sharp/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/Users/elizabeth/Programming/c_sharp/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/Users/elizabeth/Programming/c_sharp/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/Users/elizabeth/Programming/c_sharp/Game/bin/Debug/netcoreapp2.2/Game.dll
+/Users/elizabeth/Programming/c_sharp/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/Users/elizabeth/Programming/c_sharp/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/Users/elizabeth/Programming/c_sharp/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/Users/elizabeth/Programming/c_sharp/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/Users/elizabeth/Programming/c_sharp/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/Users/elizabeth/Programming/c_sharp/Game/obj/Debug/netcoreapp2.2/Game.dll
+/Users/elizabeth/Programming/c_sharp/Game/obj/Debug/netcoreapp2.2/Game.pdb
