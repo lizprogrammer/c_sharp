@@ -4,6 +4,7 @@ namespace Game
 
   class Board
   {
+    // New Board with Columns and Rows
     int rows;
     int columns;
 

@@ -3,6 +3,7 @@ namespace Game{
   
   class Game
     {
+      // Each position has x, y and isOccupied
       public struct position
       {
         public int xCoord;
