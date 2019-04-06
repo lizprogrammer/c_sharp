@@ -1,0 +1,11 @@
+/Users/elizabeth/Programming/c_sharp/Connect4/bin/Debug/netcoreapp2.2/Connect4.deps.json
+/Users/elizabeth/Programming/c_sharp/Connect4/bin/Debug/netcoreapp2.2/Connect4.runtimeconfig.json
+/Users/elizabeth/Programming/c_sharp/Connect4/bin/Debug/netcoreapp2.2/Connect4.runtimeconfig.dev.json
+/Users/elizabeth/Programming/c_sharp/Connect4/bin/Debug/netcoreapp2.2/Connect4.dll
+/Users/elizabeth/Programming/c_sharp/Connect4/bin/Debug/netcoreapp2.2/Connect4.pdb
+/Users/elizabeth/Programming/c_sharp/Connect4/obj/Debug/netcoreapp2.2/Connect4.csprojAssemblyReference.cache
+/Users/elizabeth/Programming/c_sharp/Connect4/obj/Debug/netcoreapp2.2/Connect4.csproj.CoreCompileInputs.cache
+/Users/elizabeth/Programming/c_sharp/Connect4/obj/Debug/netcoreapp2.2/Connect4.AssemblyInfoInputs.cache
+/Users/elizabeth/Programming/c_sharp/Connect4/obj/Debug/netcoreapp2.2/Connect4.AssemblyInfo.cs
+/Users/elizabeth/Programming/c_sharp/Connect4/obj/Debug/netcoreapp2.2/Connect4.dll
+/Users/elizabeth/Programming/c_sharp/Connect4/obj/Debug/netcoreapp2.2/Connect4.pdb

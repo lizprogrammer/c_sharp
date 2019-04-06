@@ -1,0 +1,11 @@
+using System;
+
+namespace Connect4
+{
+    class Player
+    {
+      string color;
+
+    }
+
+}
